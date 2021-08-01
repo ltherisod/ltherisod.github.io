@@ -1,0 +1,45 @@
+
+#loader {
+    position:absolute;
+    left: 50%;
+    top: 50%; 
+    width: 5rem;
+    height: 5rem;
+    z-index: 1;
+
+}
+
+
+main{
+    min-height: 40rem ;
+}
+
+p {
+    text-align: justify;
+}
+a img {
+    width: 10rem;
+}
+
+ li a.active {
+    background-color: #D3D3D3;
+    color: black;
+}
+article div img {
+    width: 30vw;
+    
+}
+
+.bi-envelope {
+    text-decoration: none;
+    color: rgb(20, 20, 20);
+}
+
+.divFilter {
+    width: 40%;
+}
+
+thead {
+    background-color: #D3D3D3;
+}
+
